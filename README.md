@@ -5,3 +5,5 @@ This is basic CRUD operations APP using
 - Spring Boot 2
 - Spring data
 - MySQL
+
+Access the application @ http://localhost:4200/
